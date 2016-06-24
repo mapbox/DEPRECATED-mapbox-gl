@@ -7,6 +7,7 @@ This is an issues-only, umbrella repository for discussions about Mapbox GL that
 ### Core
 * [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Mapbox GL in Web browsers
 * [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) – Mapbox GL on Android, iOS, macOS, Node.js, Qt, and other desktop platforms
+* [mapbox-gl-shaders](https://github.com/mapbox/mapbox-gl-shaders/) –  GLSL shaders shared between mapbox-gl-js and mapbox-gl-native
 * [mapbox-gl-test-suite](https://github.com/mapbox/mapbox-gl-test-suite) – Mapbox GL rendering tests
 
 ### Styles
@@ -14,8 +15,9 @@ This is an issues-only, umbrella repository for discussions about Mapbox GL that
 * [mapbox-gl-styles](https://github.com/mapbox/mapbox-gl-styles) – Mapbox GL example styles
 
 ### Utility
-* [gl-draw](https://github.com/mapbox/gl-draw) – Adds support for drawing and editing features on Mapbox GL JS maps
+* [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) – Adds support for drawing and editing features on Mapbox GL JS maps
 * [mapbox-gl-filter-simplify](https://github.com/mapbox/mapbox-gl-filter-simplify) – Simplifies and complexifies filters in Mapbox GL Styles
 * [mapbox-gl-function](https://github.com/mapbox/mapbox-gl-function) – Mapbox GL style function evaluator
 * [mapbox-gl-leaflet](https://github.com/mapbox/mapbox-gl-leaflet) – Create Mapbox GL layers in Leaflet
+* [mapbox-gl-plugins](https://github.com/mapbox/mapbox-gl-plugins/) –  Hosted plugins for Mapbox GL JS
 * [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) – Render Mapbox GL maps from React applications
