@@ -1,3 +1,7 @@
+# Mapbox GL
+
+A suite of libraries for embedding interactive, customizable vector maps into native applications on multiple platforms. Mapbox GL libraries take stylesheets that conform to the [Mapbox GL Style Specification](https://github.com/mapbox/mapbox-gl-style-spec/), apply them to vector tiles that conform to the [Mapbox Vector Tile Specification](https://github.com/mapbox/vector-tile-spec), and render them using OpenGL.
+
 This is an issues-only, umbrella repository for discussions about Mapbox GL that are not specific to one of the other Mapbox GL related repositories:
 
 ### Core
