@@ -7,8 +7,6 @@ This is an issues-only, umbrella repository for discussions about Mapbox GL that
 ### Core
 * [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) – Mapbox GL in Web browsers
 * [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) – Mapbox GL on Android, iOS, macOS, Node.js, Qt, and other desktop platforms
-* [mapbox-gl-shaders](https://github.com/mapbox/mapbox-gl-shaders/) –  GLSL shaders shared between mapbox-gl-js and mapbox-gl-native
-* [mapbox-gl-test-suite](https://github.com/mapbox/mapbox-gl-test-suite) – Mapbox GL rendering tests
 
 ### Styles
 * [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec) – Mapbox GL style documentation and command line utilities
